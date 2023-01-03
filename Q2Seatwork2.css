@@ -1,0 +1,23 @@
+img{
+	height: 300px;
+	border: solid;
+	border-color: #a18545;
+	border-radius: 10px;
+	padding: 12px;
+}
+body{
+	background-color: #e8d3a9;
+	margin: 100px;
+	font-family: ;
+	text-align: center;
+	font-family: arial;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+.ot{
+	color: #a18545;
+}
+.tbcb{
+	color: #574b30;
